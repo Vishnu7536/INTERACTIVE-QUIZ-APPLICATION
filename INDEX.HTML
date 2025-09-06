@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz Application</title>
+  <link rel="stylesheet" href="Quiz_application.css" />
+</head>
+<body>
+  <div class="header">
+    <img src="vishnu logo .png" alt="Verma College Logo" class="logo" />
+    <h1 class="quiz-title">Quiz Application</h1>
+    <div id="timer">Time: 20:00</div>
+  </div>
+
+  <div class="quiz-container">
+    <div class="question-box">
+      <h2 id="question">Loading Question...</h2>
+    </div>
+    <div id="answer-buttons"></div>
+    <div class="footer">
+      <span id="progress">Question 1 of 20</span>
+      <button id="next-btn" class="btn">Next</button>
+    </div>
+    <h3 id="score"></h3>
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
