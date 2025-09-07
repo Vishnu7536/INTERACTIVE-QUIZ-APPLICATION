@@ -87,3 +87,6 @@ Difficulty Levels: Easy, medium, and hard modes for different learners.
 User Authentication: So users can save progress and scores.
 
 Analytics Dashboard: For tracking performance over time.
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/72d3a326-804c-4303-b5ec-307f016a8602)
